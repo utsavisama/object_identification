@@ -1,0 +1,26 @@
+body{
+background-image: url("22.png");
+background-position: center;
+background-size: cover;
+}
+.heading1
+{
+font-size: 47px;
+width: 100%;
+margin: 0px;
+background-color: black;
+color:hotpink;
+padding: 10px
+}
+
+#status
+{
+font-size: 18px;
+}
+
+canvas{
+    border: 2px solid mediumvioletred ;
+    box-shadow: 10px 10px 10px black;
+    border-radius: 20px;
+}
+
